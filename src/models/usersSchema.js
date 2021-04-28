@@ -20,3 +20,9 @@ const Users = mongoose.model('users', usersSchema);
 module.exports = Users;
 
 // methods on schema - doing bcrypt, basicAuth -> grab headers from request, base64 to decode it, get username and password individually then use for validation process
+
+// ===== HOOKS ======
+
+// Cat.pre('save', () => {
+//   do something here before .save runs
+// })
