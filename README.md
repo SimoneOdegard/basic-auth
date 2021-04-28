@@ -1,7 +1,7 @@
 # Basic Auth
 
 ## Repo Name
-basic-auth
+basic-auth.
 
 ## Branch Name
 dev
