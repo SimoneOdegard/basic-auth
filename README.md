@@ -16,5 +16,4 @@ https://github.com/SimoneOdegard/basic-auth/actions
 https://github.com/SimoneOdegard/basic-auth/pull/1
 
 ## UML Diagram
-<!-- ![UML](./assets/uml.png)
-coming soon -->
+![UML](./assets/uml.png)
